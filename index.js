@@ -17,5 +17,5 @@ BoardMember.prototype.doCharity = function(){
 }
 
 BoardMember.prototype.sayHi = function(){
-  return ``
+  return `Hi, my name is ${this.name}. I am from ${this.homeState}`
 }

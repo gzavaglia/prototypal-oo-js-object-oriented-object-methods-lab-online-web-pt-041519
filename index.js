@@ -13,5 +13,9 @@ BoardMember.prototype.approve = function(){
 }
 
 BoardMember.prototype.doCharity = function(){
-  return "You can do that!"
+  return "I like to help people."
+}
+
+BoardMember.prototype.sayHi = function(){
+  return ``
 }
